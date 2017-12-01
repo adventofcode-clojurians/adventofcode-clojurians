@@ -12,9 +12,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
-![Solve problems, not puzzles](https://github.com/matthiasn/talk-transcripts/raw/master/Hickey_Rich/EffectivePrograms/01.13.38.png)
-(Image from "Effective Programs" by Rich Hickey at ClojureConj 2017 as found on [talk-transcripts](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/EffectivePrograms.md)
 
-"Solve problems, not puzzles" -Rich Hickey
+"Solve problems, not puzzles" -Rich Hickey (in "Effective Programs" at ClojureConj 2017 [talk-transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/EffectivePrograms.md))
 
 "Except in December" -Santa
