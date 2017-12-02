@@ -18,6 +18,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [tentamen](https://github.com/tentamen/adventofcode/tree/master/src/adventofcode2017)
 - [mfikes](https://github.com/mfikes/advent-of-cljs)
 - [cjmurphy](https://github.com/chrismurrph/advent-of-code)
+- [bhauman](https://github.com/bhauman/advent-of-clojure-2016/tree/master/src/advent_of_clojure_2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
