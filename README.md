@@ -16,6 +16,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [vvvvalvalval](https://github.com/vvvvalvalval/advent-of-code-2017/blob/master/src/aoc2017/core.clj)
 - [madstap](https://github.com/madstap/advent2017)
 - [tentamen](https://github.com/tentamen/adventofcode/tree/master/src/adventofcode2017)
+- [mfikes](https://github.com/mfikes/advent-of-cljs)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
