@@ -11,6 +11,7 @@ After you solved the problems yourself, compare your solution with those by othe
 
 - [thegeez](https://github.com/thegeez/clj-advent-of-code-2017)
 - [borkdude](https://github.com/borkdude/aoc2017)
+- [orestis](https://github.com/orestis/adventofcode/tree/master/clojure/aoc/src/aoc)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
