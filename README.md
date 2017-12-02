@@ -14,6 +14,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [orestis](https://github.com/orestis/adventofcode/tree/master/clojure/aoc/src/aoc)
 - [Hiram MADELAINE](https://github.com/hiram-madelaine/advent-of-code-2017)
 - [vvvvalvalval](https://github.com/vvvvalvalval/advent-of-code-2017/blob/master/src/aoc2017/core.clj)
+- [madstap](https://github.com/madstap/advent2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
