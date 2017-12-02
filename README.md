@@ -4,7 +4,7 @@ Solving [Advent of Code](http://adventofcode.com) with Clojure 2017
 
 
 ## Leaderboard
-Join the fun by joining the leaderboard, find the invite code in the #adventofcode channel on the [Clojurians Slack](https://clojurians.slack.com/)
+Join the fun by joining the leaderboard, find the invite code in the #adventofcode channel on the [Clojurians Slack](http://clojurians.net/)
 
 ## Solutions
 After you solved the problems yourself, compare your solution with those by others:
