@@ -31,6 +31,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [indigo0086](https://github.com/deepee0086-clj/adventofcode-clojurians/tree/master/src)
 - [apod](https://github.com/apod/advent-of-code-2017)
 - [moxaj](https://github.com/moxaj/advent-of-code-2017)
+- [kixi](https://github.com/kixi/advent-of-code-2018)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
