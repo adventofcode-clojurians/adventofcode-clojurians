@@ -23,6 +23,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [grzm](https://github.com/grzm/advent-of-cljc)
 - [julioberina](https://github.com/julioberina/AdventOfCode)
 - [pawandubey](https://github.com/pawandubey/aoc)
+- [positron](https://github.com/positron/advent-of-code-2017)
 - [armstnp](https://github.com/armstnp/advent-of-code-2017)
 - [amirci](https://github.com/amirci/aoc_clj)
 - [balefrost](https://bitbucket.org/balefrost/adventofcode2017)
