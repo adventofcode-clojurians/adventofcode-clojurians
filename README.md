@@ -29,6 +29,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [amirci](https://github.com/amirci/aoc_clj)
 - [balefrost](https://bitbucket.org/balefrost/adventofcode2017)
 - [indigo0086](https://github.com/deepee0086-clj/adventofcode-clojurians/tree/master/src)
+- [apod](https://github.com/apod/advent-of-code-2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
