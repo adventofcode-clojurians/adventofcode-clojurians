@@ -21,6 +21,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [bhauman](https://github.com/bhauman/advent-of-clojure-2016/tree/master/src/advent_of_clojure_2017)
 - [noonian](https://github.com/noonian/advent-of-code/tree/master/clojure)
 - [grzm](https://github.com/grzm/advent-of-cljc)
+- [julioberina](https://github.com/julioberina/AdventOfCode)
 - [pawandubey](https://github.com/pawandubey/aoc)
 - Add a link to your solution repo here, via a pull request
 
