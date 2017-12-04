@@ -35,6 +35,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [ekroon](https://github.com/ekroon/adventofcode2017)
 - [plexus](https://github.com/plexus/AdventOfCode2017)
 - [jakubholynet](https://github.com/jakubholynet/advent-of-code)
+- [dandorman](https://github.com/dandorman/advent-of-code-2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
