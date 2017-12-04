@@ -33,6 +33,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [moxaj](https://github.com/moxaj/advent-of-code-2017)
 - [kixi](https://github.com/kixi/advent-of-code-2017)
 - [ekroon](https://github.com/ekroon/adventofcode2017)
+- [plexus](https://github.com/plexus/AdventOfCode2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
