@@ -39,6 +39,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [chrisblom](https://github.com/ChrisBlom/advent-of-code)
 - [minikomi](https://github.com/minikomi/advent-of-code)
 - [bloat](https://github.com/bloat/aoc2017)
+- [sorceror](https://github.com/Sorceror/aof2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
