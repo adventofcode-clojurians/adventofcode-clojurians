@@ -41,6 +41,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [bloat](https://github.com/bloat/aoc2017)
 - [sorceror](https://github.com/Sorceror/aof2017)
 - [pgorczak](https://github.com/pgorczak/adventofcode-clj)
+- [axelarge](https://github.com/axelarge/advent-of-code/tree/master/src/advent_of_code/2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
