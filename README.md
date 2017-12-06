@@ -44,6 +44,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [axelarge](https://github.com/axelarge/advent-of-code/tree/master/src/advent_of_code/2017)
 - [pmbauer](https://github.com/pmbauer/aoc2017)
 - [simons](https://github.com/SimonS/adventofcode-answers/)
+- [javazquez](https://github.com/javazquez/advent-of-code/tree/master/clojure-advent-of-code-2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
