@@ -47,6 +47,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [javazquez](https://github.com/javazquez/advent-of-code/tree/master/clojure-advent-of-code-2017)
 - [bradlucas](https://github.com/bradlucas/advent-of-code-2017)
 - [sgepigon](https://github.com/sgepigon/adventofcode-2017)
+- [dkee](https://gitlab.com/dankee/advent-of-code-2017/tree/master/src/advent_of_code_2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
