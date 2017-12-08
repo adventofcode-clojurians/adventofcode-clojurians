@@ -50,6 +50,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [dkee](https://gitlab.com/dankee/advent-of-code-2017/tree/master/src/advent_of_code_2017)
 - [athos](https://github.com/athos/advent-of-code-2017)
 - [lypnol](https://github.com/lypnol/adventofcode-2017)
+- [madbence](https://github.com/madbence/aoc-2017-clj)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
