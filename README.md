@@ -52,6 +52,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [lypnol](https://github.com/lypnol/adventofcode-2017)
 - [madbence](https://github.com/madbence/aoc-2017-clj)
 - [zetafish](https://github.com/zetafish/adventofcode-2017)
+- [voxlet](https://github.com/voxlet/advent-of-code-2017/tree/master/src/aoc2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
