@@ -54,6 +54,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [zetafish](https://github.com/zetafish/adventofcode-2017)
 - [voxlet](https://github.com/voxlet/advent-of-code-2017/tree/master/src/aoc2017)
 - [Marqin](https://github.com/Marqin/advent-of-code)
+- [mroerni](https://github.com/MrOerni/advent-of-code-2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
