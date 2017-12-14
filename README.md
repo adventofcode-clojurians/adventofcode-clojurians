@@ -59,6 +59,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [leonoel](https://github.com/leonoel/aoc2017)
 - [sztobar](https://github.com/sztobar/adventofcode)
 - [sandemchad](https://github.com/sandemchad/clj-advent-of-code-2017)
+- [hiteshjasani](https://github.com/hiteshjasani/advent-of-code)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
