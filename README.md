@@ -62,6 +62,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [hiteshjasani](https://github.com/hiteshjasani/advent-of-code)
 - [stubillwhite](https://github.com/stubillwhite/advent-of-code-2017)
 - [pcolliander](https://github.com/pcolliander/advent-of-code)
+- [Norman Richards](https://github.com/orb/advent2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
