@@ -61,6 +61,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [sandemchad](https://github.com/sandemchad/clj-advent-of-code-2017)
 - [hiteshjasani](https://github.com/hiteshjasani/advent-of-code)
 - [stubillwhite](https://github.com/stubillwhite/advent-of-code-2017)
+- [pcolliander](https://github.com/pcolliander/advent-of-code)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
