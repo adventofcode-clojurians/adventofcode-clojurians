@@ -65,6 +65,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [Norman Richards](https://github.com/orb/advent2017)
 - [ihabunek](https://github.com/ihabunek/aoc2017/)
 - [Average-user](https://github.com/Average-user/adventofcode-clj-2017)
+- [jwarwick](https://github.com/jwarwick/aoc_2017)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
