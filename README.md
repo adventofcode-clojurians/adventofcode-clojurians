@@ -66,6 +66,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [ihabunek](https://github.com/ihabunek/aoc2017/)
 - [Average-user](https://github.com/Average-user/adventofcode-clj-2017)
 - [jwarwick](https://github.com/jwarwick/aoc_2017)
+- [gmorpheme](https://github.com/gmorpheme/adventofcode2017-clojure)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
