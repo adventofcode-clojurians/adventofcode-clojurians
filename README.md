@@ -12,6 +12,7 @@ Join the fun by joining the leaderboard, find the invite code in the #adventofco
 After you solved the problems yourself, compare your solution with those by others:
 
 - [thegeez](https://github.com/thegeez/clj-advent-of-code-2018)
+- [zetafish](https://github.com/zetafish/adventofcode-2018)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
