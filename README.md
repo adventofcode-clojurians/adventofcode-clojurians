@@ -12,6 +12,7 @@ Join the fun by joining the leaderboard, find the invite code in the #adventofco
 After you solved the problems yourself, compare your solution with those by others:
 
 - [thegeez](https://github.com/thegeez/clj-advent-of-code-2018)
+- [advent-of-spec](https://github.com/borkdude/advent-of-spec) (aggregate of cross platform solutions, PRs welcome!)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
