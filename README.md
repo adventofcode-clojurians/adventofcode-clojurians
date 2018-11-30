@@ -13,6 +13,7 @@ After you solved the problems yourself, compare your solution with those by othe
 
 - [thegeez](https://github.com/thegeez/clj-advent-of-code-2018)
 - [advent-of-spec](https://github.com/borkdude/advent-of-spec) (aggregate of cross platform solutions, PRs welcome!)
+- [zetafish](https://github.com/zetafish/adventofcode-2018)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
