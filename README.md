@@ -15,6 +15,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [advent-of-cljc](https://github.com/borkdude/advent-of-cljc) (Cross platform solutions, PRs welcome!)
 - [zetafish](https://github.com/zetafish/adventofcode-2018)
 - [bloat](https://github.com/bloat/aoc2018)
+- [potetm](https://github.com/potetm/advent-of-code)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
