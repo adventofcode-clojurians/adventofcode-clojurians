@@ -21,6 +21,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [dfuenzalida](https://github.com/dfuenzalida/adventofcode/tree/master/advent2018)
 - [apod](https://github.com/apod/advent-of-code-2018)
 - [Heliosmaster](https://github.com/Heliosmaster/advent-of-code-2018)
+- [kfirmanty](https://github.com/kfirmanty/advent-of-code-2018)
 - [HeyItsMario](https://github.com/HeyItsMario/AdventOfCode2018)
 - [cshclm](https://gitlab.com/cshclm/advent-of-code-2018)
 
