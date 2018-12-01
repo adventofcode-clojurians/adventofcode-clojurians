@@ -17,6 +17,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [bloat](https://github.com/bloat/aoc2018)
 - [potetm](https://github.com/potetm/advent-of-code)
 - [justone](https://github.com/justone/adventofcode/tree/master/2018)
+- [julioberina](https://github.com/julioberina/AdventOfCode-2018)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
