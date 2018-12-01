@@ -25,6 +25,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [HeyItsMario](https://github.com/HeyItsMario/AdventOfCode2018)
 - [cshclm](https://gitlab.com/cshclm/advent-of-code-2018)
 - [athos](https://github.com/athos/advent-of-code-2018)
+- [taylorwood](https://github.com/taylorwood/advent-of-code)
 
 - Add a link to your solution repo here, via a pull request
 
