@@ -20,7 +20,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [julioberina](https://github.com/julioberina/AdventOfCode-2018)
 - [dfuenzalida](https://github.com/dfuenzalida/adventofcode/tree/master/advent2018)
 - [apod](https://github.com/apod/advent-of-code-2018)
-- [HeyItsMario] (https://github.com/HeyItsMario/AdventOfCode2018)
+- [HeyItsMario](https://github.com/HeyItsMario/AdventOfCode2018)
 - Add a link to your solution repo here, via a pull request
 
 ## Cheers
