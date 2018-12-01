@@ -32,6 +32,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [pgorczak](https://github.com/pgorczak/adventofcode-clj/tree/master/src/aoc2018)
 - [akmiller78](https://github.com/akmiller78/AdventOfCode2018)
 - [deepbit](https://github.com/coelias/adventofcode-2018)
+- [dandorman](https://github.com/dandorman/advent-of-code-2018)
 
 - Add a link to your solution repo here, via a pull request
 
