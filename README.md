@@ -28,6 +28,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [taylorwood](https://github.com/taylorwood/advent-of-code)
 - [Norman Richards](https://github.com/orb/advent2018)
 - [mfikes](https://github.com/mfikes/advent-of-code)
+- [skuro](https://github.com/skuro/adventofcode2018)
 
 - Add a link to your solution repo here, via a pull request
 
