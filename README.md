@@ -30,6 +30,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [mfikes](https://github.com/mfikes/advent-of-code)
 - [skuro](https://github.com/skuro/adventofcode2018)
 - [pgorczak](https://github.com/pgorczak/adventofcode-clj/tree/master/src/aoc2018)
+- [akmiller78](https://github.com/akmiller78/AdventOfCode2018)
 
 - Add a link to your solution repo here, via a pull request
 
