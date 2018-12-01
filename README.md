@@ -6,7 +6,7 @@ Solving [Advent of Code](http://adventofcode.com) with Clojure 2018
 - [2017](https://github.com/adventofcode-clojurians/adventofcode-clojurians/blob/master/2017.md)
 
 ## Leaderboard
-Join the fun by joining the leaderboard, use `57048-763fafc9` as the invite code
+Join the fun by joining the leaderboard, use `217019-4a55b8eb` as the invite code
 
 ## Solutions
 After you solved the problems yourself, compare your solution with those by others:
