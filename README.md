@@ -38,6 +38,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [pauloaug](https://github.com/pauloaug/advent-of-code-2018)
 - [jarohen](https://github.com/jarohen/advent-of-code/tree/master/2018/src/aoc2018)
 - [uosl](https://github.com/uosl/advent-of-code)
+- [Hiram Madelaine] (https://bitbucket.org/hmadelaine/advent-of-code)
 
 - Add a link to your solution repo here, via a pull request
 
