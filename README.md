@@ -35,6 +35,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [dandorman](https://github.com/dandorman/advent-of-code-2018)
 - [madbence](https://github.com/madbence/aoc-2018-clj)
 - [vijaykiran](https://github.com/vijaykiran/aoc-2018)
+- [pauloaug](https://github.com/pauloaug/advent-of-code-2018)
 
 - Add a link to your solution repo here, via a pull request
 
