@@ -40,6 +40,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [uosl](https://github.com/uosl/advent-of-code)
 - [Hiram Madelaine](https://bitbucket.org/hmadelaine/advent-of-code)
 - [Sorceror](https://github.com/Sorceror/aoc2018)
+- [vvvvalvalval](https://github.com/vvvvalvalval/advent-of-code-2017/tree/master/src/aoc2018)
 
 - Add a link to your solution repo here, via a pull request
 
