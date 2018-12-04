@@ -43,6 +43,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [vvvvalvalval](https://github.com/vvvvalvalval/advent-of-code-2017/tree/master/src/aoc2018)
 - [ihabunek](https://git.sr.ht/~ihabunek/aoc2018/tree/master/clojure)
 - [noblepayne](https://github.com/noblepayne/advent-of-code2018)
+- [Jp](https://gist.github.com/JpOnline/ff968f4232cf9a54de0a98193a62af4c)
 
 - Add a link to your solution repo here, via a pull request
 
