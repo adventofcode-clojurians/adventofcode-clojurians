@@ -44,6 +44,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [ihabunek](https://git.sr.ht/~ihabunek/aoc2018/tree/master/clojure)
 - [noblepayne](https://github.com/noblepayne/advent-of-code2018)
 - [armstnp](https://github.com/armstnp/advent-of-code-2018)
+- [Jp](https://gist.github.com/JpOnline/ff968f4232cf9a54de0a98193a62af4c)
 
 - Add a link to your solution repo here, via a pull request
 
