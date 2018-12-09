@@ -48,6 +48,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [rymndhng](https://github.com/rymndhng/advent-of-clojure/)
 - [Average-user](https://github.com/Average-user/adventofcode-clj-2018)
 - [baritonehands](https://github.com/baritonehands/advent-of-code-2018)
+- [bubblefoil](https://github.com/bubblefoil/adventofcode18)
 
 - Add a link to your solution repo here, via a pull request
 
