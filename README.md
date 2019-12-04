@@ -50,6 +50,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [baritonehands](https://github.com/baritonehands/advent-of-code-2018)
 - [bubblefoil](https://github.com/bubblefoil/adventofcode18)
 - [bradlucas](https://github.com/bradlucas/advent-of-code-2018)
+- [jreighley](https://github.com/jreighley/aoc2019)
 
 - Add a link to your solution repo here, via a pull request
 
