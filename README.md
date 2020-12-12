@@ -52,6 +52,7 @@ After you solved the problems yourself, compare your solution with those by othe
 - [bradlucas](https://github.com/bradlucas/advent-of-code-2018)
 - [jreighley](https://github.com/jreighley/aoc2019)
 - [AlistairONeill](https://github.com/AlistairONeill/advent-of-code-clojure)
+- [Vincent Cantin](https://github.com/green-coder/advent-of-code-2020)
 
 - Add a link to your solution repo here, via a pull request
 
